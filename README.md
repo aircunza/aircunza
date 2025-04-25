@@ -34,7 +34,7 @@ I have experience developing Backend applications and programming PLCs for compa
 
 <p align="center">
 <a href="https://github.com/aircunza">
-<img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aircunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,stars"/>
-  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aircunza&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" width="250em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aircunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,stars"/>
+  <img height="180em" width="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aircunza&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

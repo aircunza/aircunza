@@ -6,6 +6,7 @@ Backend Developer & Mechatronic Engineer
 
 I have experience developing Backend applications and programming PLCs for companies in the industrial sector.
 
+*   👩🏻‍💻  Backend Developer & Mechatronic Engineer
 *   🌍  I'm based in Lima, Peru
 *   🖥️  See my portfolio at [https://github.com/aircunza](http://github.com/aircunza)
 *   ✉️  You can contact me at [jair.cunza@gmail.com](mailto:jair.cunza@gmail.com)
@@ -29,3 +30,11 @@ I have experience developing Backend applications and programming PLCs for compa
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+# 💻 GitHub Analitycs
+
+<p align="center">
+<a href="https://github.com/aircunza">
+<img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aircunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,stars"/>
+  <img height="180em" width="500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aircunza&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

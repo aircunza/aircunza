@@ -1,10 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jair Cunza
-==================================================================================================================================
+# 👋 Hi, I'm Jair!
 
 Backend Developer & Mechatronic Engineer
 ----------------------------------------
 
 I have experience developing Backend applications and programming PLCs for companies in the industrial sector.
+
+<picture>
+  <img align="right" width="40%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=aircunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,stars"/>
+</picture>
 
 *   👩🏻‍💻  Backend Developer & Mechatronic Engineer
 *   🌍  I'm based in Lima, Peru
@@ -16,6 +19,9 @@ I have experience developing Backend applications and programming PLCs for compa
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+<picture>
+    <img align="right" width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aircunza&layout=compact&langs_count=8&theme=algolia"/>
+</picture>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,11 +36,3 @@ I have experience developing Backend applications and programming PLCs for compa
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-# 💻 GitHub Analitycs
-
-<p align="center">
-<a href="https://github.com/aircunza">
-<img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aircunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,stars"/>
-  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aircunza&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>

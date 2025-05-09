@@ -12,7 +12,7 @@ I have experience developing Backend applications and programming PLCs for compa
 *   👩🏻‍💻  Backend Developer & Mechatronic Engineer
 *   🌍  I'm based in Lima, Peru
 *   🖥️  See my portfolio at [https://github.com/aircunza](http://github.com/aircunza)
-*   ✉️  You can contact me at [jair.cunza@gmail.com](mailto:jair.cunza@gmail.com)
+*   🔗 Connect with me on [LinkedIn]([https://www.linkedin.com/in/jair-cunza](https://www.linkedin.com/in/jair-cunza-b021a02a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 *   🧠  I Studied Mechtronic Enginieer - Technological University of Peru
 *   🤝  I'm open to collaborating on Backen applications and automation systems.### Skills 
 

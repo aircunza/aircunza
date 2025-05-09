@@ -14,7 +14,7 @@ I have experience developing Backend applications and programming PLCs for compa
 *   🖥️  See my portfolio at [https://github.com/aircunza](http://github.com/aircunza)
 *   🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/jair-cunza-b021a02a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 *   🧠  I Studied Mechtronic Enginieer - Technological University of Peru
-*   🤝  I'm open to collaborating on Backen applications and automation systems.### Skills 
+*   🤝  I'm open to collaborating on Backen applications and automation systems.
 
 
 # 💻 Tech Stack

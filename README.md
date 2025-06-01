@@ -6,7 +6,7 @@ Backend Developer & Mechatronic Engineer
 I have experience developing Backend applications and programming PLCs for companies in the industrial sector.
 
 <picture>
-  <img align="right" width="40%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=aircunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,stars"/>
+  <img align="right" width="40%"  src="https://github.com/aircunza/github-readme-stats/blob/main/stats.svg"/>
 </picture>
 
 *   👩🏻‍💻  Backend Developer & Mechatronic Engineer
